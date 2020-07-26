@@ -1,5 +1,14 @@
 # Hi, I'm JT 👋
 
-[![](https://img.shields.io/static/v1?label=jthomason4&style=social&logo=twitter&message=follow%20me%20on%20twitter)](https://twitter.com/jthomason4)
-
-![JT's github stats](https://github-readme-stats.vercel.app/api?username=jamesthomasonjr)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jamesthomasonjr">
+    </td>
+    <td>
+      <a href="https://twitter.com/jthomason4"><img src="https://img.shields.io/static/v1?label=jthomason4&style=social&logo=twitter&message=Follow%20me%20on%20Twitter"></a>
+      <br>
+      <a href="https://www.linkedin.com/in/jamesthomasonjr"><img src="https://img.shields.io/static/v1?label=jamesthomasonjr&style=social&logo=linkedin&message=Connect%20on%20LinkedIn"></a>
+    </td>
+  </tr>
+</table>
