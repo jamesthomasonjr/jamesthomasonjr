@@ -18,6 +18,14 @@ Stations is an agent-native work execution platform where humans and agents work
 
 Reusable workflows for coding agents, including codebase orientation, debugging, multi-agent code review, work prioritization, and agent handoffs.
 
+### Vic — Visual Context
+
+**A headless agent harness and context editor, inspired by Vim and Neovim.**
+
+Vic explores what a Vim-like environment could look like for the agent age: context as an editable developer resource, a small headless core, composable commands and semantic actions, protocol-separated interfaces, pluggable agent providers, and an extensibility model designed around agent workflows rather than text files.
+
+*Currently in development; public repository coming later.*
+
 ## Earlier work
 
 I've been building developer tools and platform infrastructure since well before today's agent tooling — from open-source libraries and deployment systems to developer utilities.
