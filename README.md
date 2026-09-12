@@ -50,7 +50,6 @@ A few examples:
 
 - [chai-each](https://github.com/jamesthomasonjr/chai-each) — assertion helpers for Chai
 - [Hal](https://github.com/jamesthomasonjr/hal-core) — components from an earlier build and deployment platform
-- [Cursor Configs](https://github.com/jamesthomasonjr/CursorConfigs) — reusable Cursor rules, skills, hooks, prompts, and project scaffolding
 
 ## Elsewhere
 
