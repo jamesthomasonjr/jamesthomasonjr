@@ -4,7 +4,7 @@ Full-stack software engineer focused on **developer tooling, AI-assisted enginee
 
 I like building the layer around how software gets made: developer interfaces, agent orchestration, context and memory, workflow automation, guardrails, and the infrastructure that makes those systems reliable.
 
-I'm currently building **[Stations.dev](https://stations.dev)** as an independent founding engineer, while continuing to explore developer tooling for agentic software.
+I'm currently building **[Stations.dev](https://stations.dev)** as an independent founding engineer, alongside open-source tooling for agent workflows, orchestration, and developer interaction with agents.
 
 ## Current work
 
