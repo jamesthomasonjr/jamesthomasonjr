@@ -14,9 +14,25 @@ I'm currently building **[Stations](https://stations.dev)** as an independent fo
 
 Stations is an agent-native work execution platform where humans and agents work through the same structured processes, with explicit actors, artifacts, gates, dependencies, and approvals.
 
+### [Supersuit](https://github.com/jeighty/supersuit)
+
+**Composable workflows for coding agents.**
+
+Supersuit is an agent workflow platform for defining and composing software-development processes without hard-coding one workflow into the harness. It started as a configurable alternative to rigid, chained-skill methodologies and is evolving toward a platform where workflows like Superpowers, GSD, SpecKit, and custom team processes can be expressed using the same primitives.
+
 ### [Agent Skills](https://github.com/jamesthomasonjr/skills)
 
-Reusable workflows for coding agents, including codebase orientation, debugging, multi-agent code review, work prioritization, and agent handoffs.
+**Reusable capabilities for coding agents.**
+
+Skills for codebase orientation, debugging, multi-agent code review, work prioritization, agent handoffs, and other engineering workflows — designed to work across multiple coding-agent environments.
+
+### Fleet
+
+**Orchestration for fleets of coding agents.**
+
+A harness-agnostic evolution of my multi-agent tooling for coordinating coding agents across repositories, tasks, and execution environments.
+
+*Currently in development; public repository coming soon.*
 
 ### Vic — Visual Context
 
